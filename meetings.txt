@@ -1,2 +1,7 @@
 10/21/2020
-Worked on the navbar. 
+Added Aesthetics to the website
+  - All pages
+  - Added the club Logo
+  - Added navbar
+  - Added colors
+  
